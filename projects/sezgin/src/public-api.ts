@@ -1,8 +1,6 @@
 /*
  * Public API Surface of sezgin
  */
-export * from './lib/sezgin.service';
-export * from './lib/sezgin.component';
 export * from './lib/sezgin.module';
 
 /*
